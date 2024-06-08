@@ -201,8 +201,8 @@ body {
 
 .day-temperature span {
   font-size: 16px;
-  font-weight: 500;
-  background-color: var(--body_background);
+  font-weight: 400;
+ 
 }
 
 .credit {
